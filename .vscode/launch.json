@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "OnlineNurseAppointmentSystemApplication",
+            "request": "launch",
+            "mainClass": "com.gajendra9.online_nurse_appointment_system.OnlineNurseAppointmentSystemApplication",
+            "projectName": "online_nurse_appointment_system"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-OnlineNurseAppointmentSystemApplication<online_nurse_appointment_system>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.ayash7.online_nurse_appointment_system.OnlineNurseAppointmentSystemApplication",
+            "projectName": "online_nurse_appointment_system",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
